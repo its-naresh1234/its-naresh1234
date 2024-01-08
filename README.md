@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @its-naresh1234
-- 👀 I’m interested in Java developer 
+- 👀 I’m interested in Java 
 - 🌱 I’m currently learning BTech final year 
-- 💞️ I’m looking to an opportunity 
+- 💞️ I’m looking for an opportunity 
 - 
 
 <!---
